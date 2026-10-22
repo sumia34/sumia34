@@ -1,38 +1,41 @@
 # Hi, I'm Sumiya Saleem 👋
 
-**Full-Stack Developer | React · JavaScript · Node.js · Express · MongoDB**
+**Full-Stack Web Developer | React · JavaScript · Node.js · Express · MongoDB**
 
-I build responsive websites and practical web applications while continuously improving my coding, debugging, and problem-solving skills.
+I build responsive websites and practical web applications with a focus on usability, functionality, and solving real-world problems. I'm continuously improving my development, debugging, and problem-solving skills.
 
 ## 🛠️ Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Tools:** Git and GitHub
+- **Tools:** Git, GitHub, VS Code
 
 ## 🚀 Featured Projects
 
-### Todo List App
+### ✅ Todo List App
 A task-management application for adding, deleting, and organizing tasks through a clean interface.
 
-### Computer Course Registration System
-A full-stack registration project featuring frontend validation, Node.js, Express, and MongoDB.
+### 📝 Computer Course Registration System
+A full-stack registration project featuring frontend validation, Node.js, Express.js, and MongoDB.
 
-### Smart Payment UI
+### 💳 Smart Payment UI
 An e-commerce interface project built to practise frontend development and user interface design.
 
-## 🌱 Currently Learning
+## 🌱 Currently Improving
 
-- Writing code independently
-- Debugging and testing applications
-- Connecting React frontends to backend APIs
+- Writing and understanding code independently
+- Debugging and testing web applications
+- Connecting frontends to backend APIs
 - Improving database integration and project documentation
 
-## 📌 My Goal
+## 🎯 My Goal
 
-To build useful, reliable web applications that solve real problems for people and businesses.
+To build useful, reliable web applications and responsive websites that solve real problems for people and businesses.
 
-## 🔗 Find Me Online
+## 🤝 Let's Connect
 
-- [GitHub Profile](https://github.com/sumia34)
+- **GitHub:** [Explore my repositories](https://github.com/sumia34)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sumiya-saleem-944bb5396/)
+
+I'm open to learning opportunities, collaborations, and web development projects.
